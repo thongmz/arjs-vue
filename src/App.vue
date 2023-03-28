@@ -1,16 +1,14 @@
 <template>
-  <div id="app">
-    <ARScene/>
-  </div>
+ <Test3D />
 </template>
 
 <script>
-import ARScene from "./components/ARScene";
+import Test3D from "./components/Test3D";
 
 export default {
   name: 'App',
   components: {
-    ARScene
+    Test3D
   }
 }
 </script>

@@ -1,7 +1,8 @@
+<div style="hight:400px; width:600px">
 <template>
   <div id="ARScene"></div>
 </template>
-
+</div>
 <script>
 import * as THREE from 'three';
 import { ArToolkitProfile, ArToolkitSource, ArToolkitContext, ArMarkerControls} from 'ar-js-org/three.js/build/ar-threex.js';
